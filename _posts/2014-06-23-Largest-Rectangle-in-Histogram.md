@@ -1,5 +1,11 @@
-【LeetCode】Largest Rectangle in Histogram
-===================
+---
+layout: page
+title: 【LeetCode】Largest Rectangle in Histogram
+tagline: leetcode
+---
+{% include JB/setup %}
+
+
 
 **题目** Given n non-negative integers representing the histogram's bar height where the width of each bar is 1, find the area of largest rectangle in the histogram.
 ![enter image description here](http://www.leetcode.com/wp-content/uploads/2012/04/histogram.png)
