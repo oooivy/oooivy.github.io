@@ -1,7 +1,7 @@
 ---
 layout: page
-title: welcome to my page!
-tagline: 
+title: The greatest test of courage on earth is to bear defeat without losing heart.
+tagline:  Arya Rush!
 ---
 {% include JB/setup %}
 
