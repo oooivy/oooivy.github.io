@@ -1,7 +1,7 @@
 ---
 layout: page
-title: The greatest test of courage on earth is to bear defeat without losing heart.
-tagline:  Arya Rush!
+title: Bear defeat without losing heart.
+tagline:  Arya Rush
 ---
 {% include JB/setup %}
 
